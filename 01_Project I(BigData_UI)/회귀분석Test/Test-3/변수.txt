@@ -1,0 +1,14 @@
+기온 - temp
+강수량 - rain
+풍속 - wind
+기압 - hpa
+습도 - rh(Relative Humidity)
+일조시간 - sun
+일사량 - insolation
+매출 - revenue
+생산비 - Pcost
+면적 - area
+생산량 - yield
+상품 - Hprice
+중품 - Mprice
+유통비용 - Dcost

@@ -1,0 +1,11 @@
+기온 - temp
+강수량 - rain
+기압 - hpa
+습도 - rh(Relative Humidity)
+풍속 - wind
+일조량 - sun
+일사량 - insolation
+매출 - revenue
+중등품변화율 - MchgRate
+상듬품변화율 - HchgRate
+생산량 - output
